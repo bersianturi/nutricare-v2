@@ -1,5 +1,7 @@
 # NutriCare v2
 
+![NutriCare Logo](./logo.jpg)
+
 <p align="center">
   <a href="https://github.com/beryllwithcode/project-NutriCare">
     <img src="https://img.shields.io/badge/NutriCare-v2-blue.svg" alt="NutriCare">
