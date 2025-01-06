@@ -3,7 +3,7 @@
 ![NutriCare Logo](./logo.jpg)
 
 <p align="center">
-  <a href="https://github.com/beryllwithcode/project-NutriCare">
+  <a href="https://github.com/bersianturi/nutricare-v2">
     <img src="https://img.shields.io/badge/NutriCare-v2-blue.svg" alt="NutriCare">
   </a>  
 </p>
