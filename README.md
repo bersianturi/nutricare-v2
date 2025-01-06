@@ -1,9 +1,14 @@
 # NutriCare v2
 
-![NutriCare Logo](./logo.jpg) 
+<p align="center">
+  <a href="https://github.com/beryllwithcode/project-NutriCare">
+    <img src="https://img.shields.io/badge/NutriCare-v2-blue.svg" alt="NutriCare">
+  </a>  
+</p>
 
-[![NutriCare](https://img.shields.io/badge/NutriCare-v2-blue.svg)](https://github.com/bersianturi/nutricare-v2)  
-Versi terbaru dari proyek **NutriCare**, dikembangkan dengan teknologi modern untuk mendukung kesejahteraan penduduk.
+<p align="center">
+  Versi terbaru dari proyek <strong>NutriCare</strong>, dikembangkan dengan teknologi modern untuk mendukung kesejahteraan penduduk.
+</p>
 
 ## 🌟 Tentang Proyek
 
