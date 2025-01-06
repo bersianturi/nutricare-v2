@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NutriCare v2
 
-## Getting Started
+[![NutriCare](https://img.shields.io/badge/NutriCare-v2-blue.svg)](https://github.com/bersianturi/nutricare-v2)  
+Versi terbaru dari proyek **NutriCare**, dikembangkan dengan teknologi modern untuk mendukung kesejahteraan penduduk.
 
-First, run the development server:
+## 🌟 Tentang Proyek
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**NutriCare v2** adalah kelanjutan dari proyek [NutriCare](https://github.com/beryllwithcode/project-NutriCare), sebuah capstone project SIB x Dicoding Batch 5 yang berhasil meraih penghargaan **Best Capstone Project** dengan tema **Kesejahteraan Penduduk**.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Proyek ini bertujuan untuk:  
+- Meningkatkan fitur yang sudah ada pada versi sebelumnya.  
+- Memberikan solusi inovatif untuk mendukung kesejahteraan masyarakat, terutama di bidang nutrisi dan kesehatan.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Pengembangan proyek dilakukan oleh satu developer dengan memanfaatkan dasar dari versi sebelumnya.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Teknologi yang Digunakan
 
-To learn more about Next.js, take a look at the following resources:
+Proyek ini dibangun menggunakan stack teknologi modern berikut:  
+- **[Next.js](https://nextjs.org/)** - Framework React untuk pengembangan web.
+- **[shadcn-ui](https://shadcn.dev/)** - Komponen UI modern yang dapat disesuaikan.
+- **[Auth.js](https://authjs.dev/)** - Solusi autentikasi untuk aplikasi web.
+- **[Prisma](https://www.prisma.io/)** - ORM yang fleksibel untuk mengelola database.
+- **[Neon](https://neon.tech/)** - Platform database PostgreSQL berbasis cloud.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Catatan: Proyek ini masih dalam tahap pengembangan. Teknologi lain mungkin akan ditambahkan di masa mendatang.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📌 Status Proyek
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Proyek ini masih **dalam tahap pengembangan aktif**. Pembaruan akan diumumkan secara berkala.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Jika Anda tertarik untuk melihat perkembangan lebih lanjut, silakan pantau repository ini.  
+
+---
+
+## 🤝 Kontribusi
+
+Saat ini proyek dikembangkan secara mandiri.  
+Namun, jika Anda memiliki ide, saran, atau ingin berkontribusi, silakan:  
+1. Buka **Issues** untuk berdiskusi.  
+2. Kirimkan **Pull Request** jika ingin menambahkan fitur atau memperbaiki bug.
+
+---
+
+## 📄 Lisensi
+
+Proyek ini menggunakan lisensi [MIT](LICENSE). Anda bebas menggunakan, mengubah, dan mendistribusikan proyek ini sesuai ketentuan lisensi.
+
+---
+
+Dibuat dengan ❤️ oleh [bersianturi](https://github.com/bersianturi)
