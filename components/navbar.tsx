@@ -43,7 +43,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="border-b">
+    <nav className="border-b sticky top-0 z-50 bg-white">
       <div className="flex h-16 items-center justify-between lg:px-[100px] px-[25px]">
         <div className="flex items-center mt-[-6px]">
           <Link href={"/"}>
@@ -64,7 +64,7 @@ const Navbar = () => {
                     <NavigationMenuLink
                       className={
                         navigationMenuTriggerStyle() +
-                        " text-nc-secondary hover:bg-transparent hover:text-nc-green focus:bg-transparent focus:text-nc-green active:text-nc-green"
+                        " text-nc-secondary bg-transparent hover:bg-transparent hover:text-nc-green focus:bg-transparent focus:text-nc-green active:text-nc-green"
                       }
                     >
                       {item.title}
@@ -78,8 +78,9 @@ const Navbar = () => {
         <div className="flex items-center gap-x-2">
           <Button
             size={"default"}
+            variant={"orange"}
             asChild
-            className="rounded-full bg-nc-orange hover:bg-nc-orange-hover"
+            className="rounded-full"
           >
             <Link href={"/login"}>Login</Link>
           </Button>
