@@ -22,8 +22,8 @@ const Navbar = () => {
     },
     {
       title: "BMI Calculate",
-      url: "/",
-      active: pathname === "/",
+      url: "/bmi-calculate",
+      active: pathname === "/bmi-calculate",
     },
     {
       title: "Article",
@@ -64,7 +64,7 @@ const Navbar = () => {
                     <NavigationMenuLink
                       className={
                         navigationMenuTriggerStyle() +
-                        " text-nc-secondary hover:bg-transparent hover:text-nc-green"
+                        " text-nc-secondary hover:bg-transparent hover:text-nc-green focus:bg-transparent focus:text-nc-green active:text-nc-green"
                       }
                     >
                       {item.title}
