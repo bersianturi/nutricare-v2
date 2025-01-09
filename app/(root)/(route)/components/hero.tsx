@@ -4,7 +4,7 @@ import Link from "next/link";
 const HeroSection = () => {
   return (
     <section id="hero">
-      <div className="flex flex-col justify-center items-center lg:py-[150px] py-[150px] px-[25px] lg:px-[150px] bg-hero bg-no-repeat bg-cover bg-center lg:rounded-lg lg:m-4 gap-y-4 lg:shadow-sm">
+      <div className="flex flex-col justify-center items-center lg:py-[150px] py-[150px] px-[25px] lg:px-[150px] bg-hero bg-no-repeat bg-cover bg-center rounded-lg m-2 lg:m-4 gap-y-4 lg:shadow-sm">
         <div className="lg:max-w-[800px]">
           <h1 className="font-bold text-4xl md:text-4xl lg:text-5xl text-center">
             Empowering your <span className="text-nc-green">healthy</span>{" "}
