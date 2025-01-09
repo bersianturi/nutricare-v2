@@ -1,6 +1,3 @@
-import Footer from "@/components/footer";
-import Navbar from "@/components/navbar";
-
 export default async function RootLayout({
   children,
 }: {
@@ -8,11 +5,7 @@ export default async function RootLayout({
 }) {
   return (
     <>
-      <main className="w-full">
-        <Navbar />
-        {children}
-        <Footer />
-      </main>
+      <main className="w-full">{children}</main>
     </>
   );
 }
